@@ -13,4 +13,4 @@ class TopicCommentSerializer(serializers.ModelSerializer):
     class Meta:
         model = models.TopicCommentModel
         fields = '__all__'
-        read_only_fields = ('id', 'topic', 'author_id')
+        read_only_fields = ('id', 'author_id')
