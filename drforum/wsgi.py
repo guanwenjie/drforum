@@ -1,5 +1,5 @@
 """
-WSGI config for drfork project.
+WSGI config for drforum project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
